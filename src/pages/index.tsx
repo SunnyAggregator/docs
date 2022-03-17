@@ -15,7 +15,7 @@ function HomepageHeader() {
           <h1 tw="text-center text-5xl font-semibold">
             <GradientText>Sunny Documentation</GradientText>
           </h1>
-          <p tw="text-lg">Solana's composable DeFi aggregator</p>
+          <p tw="text-lg text-white">Solana's composable DeFi aggregator</p>
           <Link
             className="button button--secondary button--lg"
             tw="mt-4 bg-amber-400 border-none"
