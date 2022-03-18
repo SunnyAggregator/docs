@@ -31,7 +31,7 @@ function HomepageHeader() {
 
 export default function Home(): JSX.Element {
   return (
-    <Layout description="Documentation on how to use and build on Saber, the leading AMM and DEX on Solana for stablecoins and pegged assets.">
+    <Layout description="The official documentation for Sunny Aggregator, Solana's composable DeFi aggregator.">
       <HomepageHeader />
     </Layout>
   );
