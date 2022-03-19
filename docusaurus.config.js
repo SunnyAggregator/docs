@@ -10,7 +10,7 @@ const config = {
   tagline: "Solana's composable DeFi aggregator",
   url: "https://docs.sunny.ag",
   baseUrl: "/",
-  favicon: "img/favicon.ico",
+  favicon: "favicon.ico",
   trailingSlash: false,
 
   organizationName: "SunnyAggregator",
