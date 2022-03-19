@@ -109,7 +109,7 @@ A: This was a bug with Saber, a fix will be released soon, and they have an aird
 
 ### Q: Will there be more Airdrops?
 
-A: None are planned, see ┌no-discord-airdrop
+A: None are planned.
 
 ### Q: What is the Osmosis airdrop?
 
@@ -119,8 +119,8 @@ A: A snapshot has been taken, but will not be claimable until ~until October. To
 
 - Transaction fees on Solana are 0.000005 SOL (~0.0007 $) per trx
 - The first time you receive a token, the blockchain creates a token account with a ~0.02 SOL deposit. This deposit can be reclaimed once the account is not needed any more. Closing a serum dex token account: https://discord.com/channels/871118097644396554/871118097644396557/883423551850426389
-  -Closing token accounts in a wallet: Note. If you ever send funds to the deleted address, you may destroy them! If that doesn't stop you, and you are really sure you want to delete, then you can do so at https://soltricks.io/. Please also see discussion at https://discord.com/channels/871118097644396554/871118097644396557/883869479757545602
-  .
+  - Closing token accounts in a wallet: Note. If you ever send funds to the deleted address, you may destroy them! If that doesn't stop you, and you are really sure you want to delete, then you can do so at https://soltricks.io/. Please also see discussion at https://discord.com/channels/871118097644396554/871118097644396557/883869479757545602
+    .
 
 ## Links
 
