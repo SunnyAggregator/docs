@@ -11,3 +11,9 @@ There are four tokens relevant to the Sunny Delock system:
 - The **Delock** token, e.g. sunSBR. This is also commonly referred to as a "sunToken".
 - The **Yi** token, e.g. yiSunSBR. [Yi tokens](https://github.com/CrateProtocol/yi) are a primitive for creating auto-compounding single token staking pools, and they are used by several protocols including [SolunaDAO](https://soluna.money) and [Tribeca SAVE](https://github.com/TribecaHQ/save).
 - The **Token of Appreciation**, e.g. tapSunSBR. Tokens of Appreciation, also known as **TAPs**, are used to record whether or not someone minted a Delock within a specific time period. They may be used in the future for airdrops or some other incentivization mechanism, but this is currently not set in stone.
+
+## Locker Refresh
+
+A **lock refresh** allows the locker to be extended to the maximum vote escrow lockup duration. Manual refreshes are necessary because vote escrow lockup power decays linearly with respect to time.
+
+Anyone may refresh a specific Delock vote escrow locker: calling the function is permissionless.
