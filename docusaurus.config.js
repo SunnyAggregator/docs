@@ -27,6 +27,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
+          sidebarCollapsed: false,
+          sidebarCollapsible: false,
           editUrl: "https://github.com/SunnyAggregator/docs/tree/master/",
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
