@@ -21,7 +21,7 @@ One of Solana’s key advantages is that transactions all happen on a single sha
 
 Sunny was born in September 2021 intending to become one of these _yield aggregators_, similar to Yearn. It planned on launching various pools and strategies with auto-compounding of anything, starting with [Saber](https://saber.so) built on [Quarry Protocol](https://quarry.so).
 
-However, Yearn soon proved that this model was not optimal working with other projects: it relies on heavy yields always existing, and projects generally do not want to support projects that dump protocol tokens. The lack of ecosystem support reduces composability, and competitors to Yearn such as [Convex](https://convex.finance) quickly gained significant market share over Yearn.
+However, Yearn soon proved that this model was not optimal working with other projects: it relies on heavy yields always existing, and projects generally do not want to support projects that dump protocol tokens. The lack of ecosystem support reduces composability, and competitors to Yearn such as [Convex](https://convexfinance.com) quickly gained significant market share over Yearn.
 
 Today, Yearn "harvests" Convex yields. We believe there will still be a Yearn, but Sunny will continue to be the base layer of composability for any Yearn-like project to launch on top of.
 
