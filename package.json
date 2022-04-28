@@ -33,7 +33,7 @@
     "@emotion/styled": "^11.8.1",
     "@saberhq/eslint-config": "^1.12.53",
     "@saberhq/eslint-config-react": "^1.12.53",
-    "@saberhq/tsconfig": "^1.12.53",
+    "@saberhq/tsconfig": "^1.12.68",
     "@tsconfig/docusaurus": "^1.0.5",
     "babel-plugin-macros": "^3.1.0",
     "babel-plugin-twin": "^1.0.2",
