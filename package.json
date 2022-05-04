@@ -31,7 +31,7 @@
     "@emotion/babel-preset-css-prop": "^11.2.0",
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
-    "@saberhq/eslint-config": "^1.12.53",
+    "@saberhq/eslint-config": "^1.13.0",
     "@saberhq/eslint-config-react": "^1.12.53",
     "@saberhq/tsconfig": "^1.12.53",
     "@tsconfig/docusaurus": "^1.0.5",
